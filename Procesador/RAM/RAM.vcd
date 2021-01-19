@@ -1,0 +1,39 @@
+$date
+  Wed Jun 03 19:59:33 2020
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 9 ! direccion[8:0] $end
+$var reg 16 " datose[15:0] $end
+$var reg 16 # datoss[15:0] $end
+$var reg 1 $ rw $end
+$var reg 1 % iom $end
+$scope module uut $end
+$var reg 9 & direccion[8:0] $end
+$var reg 16 ' datose[15:0] $end
+$var reg 16 ( datoss[15:0] $end
+$var reg 1 ) rw $end
+$var reg 1 * iom $end
+$comment contador is not handled $end
+$var integer 32 + lindir $end
+$upscope $end
+$enddefinitions $end
+#0
+b000000000 !
+b0000000000000000 "
+b0000000000000010 #
+0$
+0%
+b000000000 &
+b0000000000000000 '
+b0000000000000010 (
+0)
+0*
+b0 +
+#100000000
+#200000000
+#300000000

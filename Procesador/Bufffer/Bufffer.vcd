@@ -1,0 +1,28 @@
+$date
+  Wed Jun 03 12:31:23 2020
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 16 ! entrada[15:0] $end
+$var reg 16 " salida[15:0] $end
+$var reg 1 # sencontrol $end
+$scope module uut $end
+$var reg 16 $ entrada[15:0] $end
+$var reg 16 % salida[15:0] $end
+$var reg 1 & sencontrol $end
+$upscope $end
+$enddefinitions $end
+#0
+b0000000000000000 !
+bZZZZZZZZZZZZZZZZ "
+0#
+b0000000000000000 $
+bZZZZZZZZZZZZZZZZ %
+0&
+#100000000
+#200000000
+#300000000

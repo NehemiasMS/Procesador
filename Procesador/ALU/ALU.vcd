@@ -1,0 +1,40 @@
+$date
+  Wed Jun 03 22:01:49 2020
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 16 ! a[15:0] $end
+$var reg 16 " b[15:0] $end
+$var reg 16 # r[15:0] $end
+$var reg 4 $ oper[3:0] $end
+$var reg 3 % c[2:0] $end
+$scope module uut $end
+$var reg 16 & a[15:0] $end
+$var reg 16 ' b[15:0] $end
+$var reg 16 ( r[15:0] $end
+$var reg 4 ) oper[3:0] $end
+$var reg 3 * c[2:0] $end
+$var reg 32 + z[31:0] $end
+$var reg 3 , flags[2:0] $end
+$upscope $end
+$enddefinitions $end
+#0
+b0000000000000000 !
+b0000000000000000 "
+b0000000000000000 #
+b0000 $
+b100 %
+b0000000000000000 &
+b0000000000000000 '
+b0000000000000000 (
+b0000 )
+b100 *
+b00000000000000000000000000000000 +
+b100 ,
+#100000000
+#200000000
+#300000000

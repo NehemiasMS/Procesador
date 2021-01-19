@@ -1,0 +1,84 @@
+$date
+  Wed Jun 03 14:02:45 2020
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 1 ! load $end
+$var reg 1 " clk $end
+$var reg 9 # entrada[8:0] $end
+$var reg 9 $ salida[8:0] $end
+$var reg 1 % clock_on $end
+$scope module uut $end
+$var reg 1 & load $end
+$var reg 1 ' clk $end
+$var reg 9 ( entrada[8:0] $end
+$var reg 9 ) salida[8:0] $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+b000000000 #
+b000000000 $
+1%
+0&
+0'
+b000000000 (
+b000000000 )
+#25000000
+1"
+1'
+#50000000
+0"
+0'
+#75000000
+1"
+1'
+#100000000
+1!
+0"
+1&
+0'
+#125000000
+1"
+1'
+#150000000
+0"
+0'
+#175000000
+1"
+1'
+#200000000
+0!
+0"
+b111111111 #
+0&
+0'
+b111111111 (
+#225000000
+1"
+1'
+#250000000
+0"
+0'
+#275000000
+1"
+1'
+#300000000
+1!
+0"
+b101010101 #
+0%
+1&
+0'
+b101010101 (
+#325000000
+1"
+b101010101 $
+1'
+b101010101 )
+#350000000
